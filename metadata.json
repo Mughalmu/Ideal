@@ -1,0 +1,6 @@
+{
+  "name": "Ideal Beauty Salon",
+  "description": "Official luxury website for Ideal Beauty Salon led by Kiran Shakir, Makeup Artist. Premium bridal makeup, hair styling, skin treatments, and beauty services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
